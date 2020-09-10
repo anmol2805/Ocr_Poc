@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="ocr_images"
+        path="Android/data/com.anmol2805.ocrpoc/files/Pictures" />
+
+    <external-path
+        name="ocr_downloads"
+        path="Android/data/com.anmol2805.ocrpoc/files/Download"/>
+
+    <cache-path
+        name="ocr_files"
+        path="/"/>
+</paths>
